@@ -1,0 +1,10 @@
+#change-due {
+    border: 2px solid;
+    width: 10em;
+}
+
+#available-change {
+    border: 2px solid;
+    width: 10em;
+    margin-top: 2em;
+}
